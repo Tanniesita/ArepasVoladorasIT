@@ -4,9 +4,8 @@
  * @author Juan Diego 
  * @author Mario Carranza Mena B51573
  */
-public abstract class Empresa {
-    
+public interface Empresa {
+
     public abstract double calculoCobros();
 
-    
 }

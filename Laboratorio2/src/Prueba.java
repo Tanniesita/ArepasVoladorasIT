@@ -6,11 +6,11 @@
  * @author Mario
  */
 public class Prueba {
-    
+
     /**
      * @param args the command line arguments
      */
-    
+
     public static void main(String[] args) {
         
         ManejadorServicios manejador = new ManejadorServicios();

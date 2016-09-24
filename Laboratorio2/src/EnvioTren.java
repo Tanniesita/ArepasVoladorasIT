@@ -1,9 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package laboratorio2;
 
 /**
  *Esta clase tiene el constructor, metodos get y set, y toString del envioTren
@@ -61,7 +55,7 @@ public class EnvioTren extends EnvioProducto {
      * @param producto este parametro contiene el producto al quese le va a calcular el costo por enviarlo
      * @return retorna el cobro de cada producto
      */    
-    @Override
+    //@Override
     public double calculoCobros(Producto producto) {
         return producto.getCantidaUnidades() * producto.getPesoUnidad() * tarifaKilo;
     }
