@@ -6,7 +6,8 @@
 package laboratorio2;
 
 /**
- *
+ *Esta clase tiene el constructor de EnvioBus, los metodos get y set, y el toString
+ *tambien tiene el metodo calculoCobro
  * @author Tannia
  * @author Juan Diego
  * @author Mario
