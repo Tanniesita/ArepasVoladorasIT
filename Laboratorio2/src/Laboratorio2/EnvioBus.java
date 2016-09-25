@@ -8,7 +8,7 @@ package Laboratorio2;
  * @author Juan Diego
  * @author Mario
  */
-public class EnvioBus extends EnvioProducto {
+public class EnvioBus extends EnvioProducto implements Empresa{
 
     /**
      *Este es el constructor del envioBus

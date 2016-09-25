@@ -8,7 +8,7 @@ package Laboratorio2;
  * @author Juan Diego
  * @author Mario
  */
-public class EnvioTren extends EnvioProducto {
+public class EnvioTren extends EnvioProducto implements Empresa {
 
     /**
      *Este es el constructor de EnvioTren
