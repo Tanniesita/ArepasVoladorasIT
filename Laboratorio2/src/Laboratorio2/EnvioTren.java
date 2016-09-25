@@ -1,3 +1,5 @@
+package Laboratorio2;
+
 
 /**
  *Esta clase tiene el constructor, metodos get y set, y toString del envioTren

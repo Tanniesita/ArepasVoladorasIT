@@ -1,3 +1,5 @@
+package Laboratorio2;
+
 /**
  * Universidad de Costa Rica
  * Programacion I
@@ -7,6 +9,7 @@
  * @author Mario Carranza Mena B51573
  * Fecha /24/09/2016
  */
-public abstract class EnvioDinero implements Empresa{
+public abstract class AlquilerVehiculo implements Empresa{
+
     
 }

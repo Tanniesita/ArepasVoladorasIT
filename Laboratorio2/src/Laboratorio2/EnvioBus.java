@@ -1,3 +1,5 @@
+package Laboratorio2;
+
 
 /**
  *Esta clase tiene el constructor de EnvioBus, los metodos get y set, y el toString

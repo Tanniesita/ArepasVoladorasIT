@@ -1,3 +1,5 @@
+package Laboratorio2;
+
 
 /**
 *Esta clase implementa desde la clase Empresa el metodo abstracto  claculo cobros para asi implementarlo a las clases que va a heredar
